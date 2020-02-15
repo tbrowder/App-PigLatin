@@ -1,6 +1,6 @@
 # App::PigLatin
 
-Provides a `pig-latin` (or `piglatin`) app to return a [Pig Latin]()  version of a string of US English characters.
+Provides a `pig-latin` (or `piglatin`) app to return a [Pig Latin](https://en.wikipedia.org/wiki/Pig_Latin)  version of a string of US English characters.
 
 ## Credits
 
